@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi sitio web práctico</title>
+    <link>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/</link>
+    <description>Recent content in Posts on Mi sitio web práctico</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 30 Oct 2026 18:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello word</title>
+      <link>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/hello-word/</link>
+      <pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
+      <guid>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/hello-word/</guid>
+      <description>Este es mi primer blog post</description>
+    </item>
+  </channel>
+</rss>

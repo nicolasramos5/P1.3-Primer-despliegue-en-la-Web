@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/hello-word/</loc>
+    <lastmod>2026-10-30T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/</loc>
+    <lastmod>2026-10-30T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/posts/</loc>
+    <lastmod>2026-10-30T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web/contact/</loc>
+  </url>
+</urlset>
