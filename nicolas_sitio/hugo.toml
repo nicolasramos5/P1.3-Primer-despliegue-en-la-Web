@@ -1,0 +1,12 @@
+baseURL = 'https://nicolasramos5.github.io/P1.3-Primer-despliegue-en-la-web'
+languageCode = 'es'
+title = 'Mi sitio web práctico'
+
+publishDir = "."
+
+disableKinds = [ "taxonomy", "term" ]
+
+[params]
+description = "Ejercicio de publicación con Hugo y GitHub Pages"
+
+
